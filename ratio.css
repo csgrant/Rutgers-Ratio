@@ -1,0 +1,62 @@
+#pic {
+	color: #b5383c;
+	font-size: 20px;
+	font-style: italic;
+	font-family: cursive;
+}
+
+body {
+	background: url(http://i.ytimg.com/vi/hT0UvjouUkI/maxresdefault.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+html {
+	height: 100%;
+}
+
+.navbar.navbar-inverse.navbar-fixed-top {
+	background: #cecaca;
+}
+
+.rratio .navbar-inverse .navbar-nav>li>a {
+	color: black;
+	font-size: 18px;
+
+}
+
+.rratio .navbar-inverse .navbar-nav>li>a:hover{
+	color: red;
+	
+}
+
+
+
+.navbar-inverse .navbar-toggle {
+	background:#b5383c;
+}
+
+.text{
+	color: white;
+	padding-top: 30%;
+	padding-left: 8%;
+}
+
+#content h1 {
+	color: white;
+	font-size: 60px;	
+	text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+
+}
+
+#content h3 {
+	color:white;
+	font-size: 60px;	
+	text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+}
+
+#content {
+	
+	padding-right: 20px;
+}
+
