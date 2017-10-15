@@ -1,0 +1,5 @@
+<ul>
+	{% for party in parties %}
+	<li><h2><a href='/moreInfo.html'>{{party.address|safe}}</a> </h2>{{party.ratio|safe}}
+	{% endfor %}
+</ul>
